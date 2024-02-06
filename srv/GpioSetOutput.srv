@@ -1,0 +1,4 @@
+int8 output_id
+bool state
+---
+bool response
